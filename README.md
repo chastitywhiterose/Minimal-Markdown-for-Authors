@@ -133,11 +133,11 @@ I started using Ghostwriter because it works on Linux. However, it works the sam
 
 Dark Mode
 
-![Screenshot-ghostwriter-dark.png](https://chastitywhiterose.com/wp-content/uploads/2025/06/screenshot-ghostwriter-dark.png)
+![Screenshot-ghostwriter-dark.png](https://chastitywhiterose.com/wp-content/uploads/2025/06/screenshot-ghostwriter-dark.png&w=540)
 
 Light Mode
 
-![Screenshot-ghostwriter-light.png](https://chastitywhiterose.com/wp-content/uploads/2025/06/screenshot-ghostwriter-light.png)
+![Screenshot-ghostwriter-light.png](https://chastitywhiterose.com/wp-content/uploads/2025/06/screenshot-ghostwriter-light.png&w=540)
 
 Besides the dark and light modes, the program does allow you to define customized themes. I have not personally explored this option because I am quite satisfied with the default dark mode.
 
@@ -151,11 +151,11 @@ If you only use Windows and don't care about Open Source, you might also like [M
 
 The next tool that I recommend is Joplin. If you look at the screenshot below, you will see that it is similar to Ghostwriter. However, Joplin's file system is separate from the rest of your PC. This system allows you to organize your notes into folders called "notebooks". They can also be searched to find what you are looking for.
 
-![Screenshot-Joplin-PC.png](https://chastitywhiterose.com/wp-content/uploads/2025/06/screenshot-joplin-pc.png)
+![Screenshot-Joplin-PC.png](https://chastitywhiterose.com/wp-content/uploads/2025/06/screenshot-joplin-pc.png&w=540)
 
 From the perspective of PC, Joplin is about the same in terms of quality as Ghostwriter or Markdown Monster. However, the main reason I recommend it is because it also functions as a mobile app.
 
-![Screenshot-Joplin-iPhone.png](https://chastitywhiterose.com/wp-content/uploads/2025/06/screenshot-joplin-iphone.png)
+![Screenshot-Joplin-iPhone.png](https://chastitywhiterose.com/wp-content/uploads/2025/06/screenshot-joplin-iphone.png&w=360)
 
 It is even possible to set up a system for automatically syncing between your PC and phone by using an online server. I actually use a private Nextcloud server to sync my PC, iPhone, and Android phone so that no matter what device I use to take notes on, it will show up on the other devices. However, this ability to customize is more advanced, and you will want to read the Joplin documentation, which is included in the app and on the official Joplin website.
 
@@ -231,13 +231,13 @@ Because Pandoc is installed, I can simply type the following command and have th
 
 `pandoc example-1.md -o example-1.html`
 
-![pandoc-convert-to-html.png](https://chastitywhiterose.com/wp-content/uploads/2025/06/pandoc-convert-to-html.png)
+![pandoc-convert-to-html.png](https://chastitywhiterose.com/wp-content/uploads/2025/06/pandoc-convert-to-html.png&w=540)
 
 Afterwards, I can view the two files right inside the terminal with the "type" command.
 
-![type-example-1-md.png](https://chastitywhiterose.com/wp-content/uploads/2025/06/type-example-1-md.png)
+![type-example-1-md.png](https://chastitywhiterose.com/wp-content/uploads/2025/06/type-example-1-md.png&w=540)
 
-![type-example-1-html.png](https://chastitywhiterose.com/wp-content/uploads/2025/06/type-example-1-html.png)
+![type-example-1-html.png](https://chastitywhiterose.com/wp-content/uploads/2025/06/type-example-1-html.png&w=540)
 
 It is pretty easy to see the conversion between the Markdown and the HTML.
 
