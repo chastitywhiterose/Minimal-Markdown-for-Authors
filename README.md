@@ -1,6 +1,5 @@
 # Minimal Markdown for Authors
-
-How to Write and Publish a Book using Open Source Software
+How to Write and Publish a Book Using Open Source Software
 
 Chastity White Rose
 
@@ -52,9 +51,9 @@ This is the third paragraph of chapter 2.
 
 If you have that text in a program capable of displaying the converted output, it will look something like this:
 
-![basic-book-example.png](./images/basic-book-example.png)
+![basic-book-example.png](https://chastitywhiterose.com/wp-content/uploads/2025/06/basic-book-example.png)
 
-Do you notice how the Book Title is larger than the chapter titles? This is because the single # at the beginning of a line means a level 1 heading. Two of them at the beginning is a level 2 heading. There are 6 levels of headings, from big to small. This may not seem like much, but it serves two purposes. First, a human reader can know when there is a new chapter or section of a book. Second, if your book is published as an e-book, the software that humans use to read it will automatically know where the headings are and can build an automatic table of contents even if you did not create one. This means they can click and instantly be taken to the chapter they want to read.
+Do you notice how the Book Title is larger than the chapter titles? This automatic sizing works because the single # at the beginning of a line means a level 1 heading. Two of them at the beginning is a level 2 heading. There are 6 levels of headings, from big to small. Defining something as a heading may not seem like much, but it serves two purposes. First, a human reader can know when there is a new chapter or section of a book. Second, if your book is published as an e-book, the software that humans use to read it will automatically know where the headings are and can build an automatic table of contents even if you did not create one. This automatic linking ability means they can click and instantly be taken to the chapter they want to read.
 
 All you had to do was insert a few # signs at the beginning of a line followed by a space. The rest of the text on that line will look different from the smaller body text. Which exact font families and sizes are used depends on the software you are using, but this means that you can customize it! I will explain more about that later!
 
@@ -66,9 +65,9 @@ For example, images can be displayed. For example, the following line links to a
 
 ![square-horse.png](https://chastitywhiterose.com/wp-content/uploads/2020/11/square-horse.png)
 
-This means that this horse can be included and displayed in a book, just as can be done on a website with HTML.
+Because this image is hosted somewhere, this horse can be included and displayed in a book, just as can be done on a website with HTML. However, it only works if you are connected to the internet at the time (unless the images are embedded into a book file, as can be done with Pandoc)
 
-It is also possible to make a clickable link within a book. Not that this only applies to e-books because, in a paperback, everything is paper and ink, not an electronic device.
+It is also possible to make a clickable link within a book. Note that this only applies to e-books because, in a paperback, everything is paper and ink, not an electronic device.
 
 For example, the following is a link:
 
@@ -88,7 +87,7 @@ The Markdown code to include the links above is:
 
 Notice that the first one, which is already in URL form, is simply enclosed in greater and less than signs. The second has the URL in parenthesis, but the text that will be displayed is in square brackets. Both of these things work fine, but the second form allows the link text to be whatever you want it to be.
 
-You can also make text look
+You can also make text look:
 
 - *italic*
 - **bold**
@@ -97,7 +96,7 @@ You can also make text look
 The Markdown code to do this looks like this:
 
 ```
-You can also make text look
+You can also make text look:
 
 - *italic*
 - **bold**
@@ -126,45 +125,45 @@ There are literally hundreds of tools for writing Markdown than you can imagine!
 - [Simplenote](https://simplenote.com/)
 
 
-All 3 of those apps are useful for their ability to preview the output of what the source Markdown code will look like. For a PC with Windows, Mac, or Linux, ghostwriter is especially helpful because it works directly with plain text files on your system just like Notepad does. It also allows a preview, just like Joplin and Simplenote do. For Mobile devices, Joplin and Simplenote are the best.
+All 3 of those apps are useful for their ability to preview the output of what the source Markdown code will look like. For a PC with Windows, Mac, or Linux, Ghostwriter is especially helpful because it works directly with plain text files on your system, just like Notepad does. It also allows a preview, just like Joplin and Simplenote do. For Mobile devices, Joplin and Simplenote are the best.
 
-## ghostwriter
+## Ghostwriter
 
-I started using ghostwriter because it works on Linux. However, it works the same on Windows or Mac operating systems. If you are writing a book for publishing, this is the number one that I recommend and is the tool I used to write this whole book. Let me show you why I love it so much by showing you some pictures!
+I started using Ghostwriter because it works on Linux. However, it works the same on Windows or Mac operating systems. If you are writing a book for publishing, this is the number one that I recommend and is the tool I used to write this whole book. Let me show you why I love it so much by showing you some pictures!
 
 Dark Mode
 
-![Screenshot-ghostwriter-dark.png](./images/Screenshot-ghostwriter-dark.png)
+![Screenshot-ghostwriter-dark.png](https://chastitywhiterose.com/wp-content/uploads/2025/06/screenshot-ghostwriter-dark.png)
 
 Light Mode
 
-![Screenshot-ghostwriter-light.png](./images/Screenshot-ghostwriter-light.png)
+![Screenshot-ghostwriter-light.png](https://chastitywhiterose.com/wp-content/uploads/2025/06/screenshot-ghostwriter-light.png)
 
 Besides the dark and light modes, the program does allow you to define customized themes. I have not personally explored this option because I am quite satisfied with the default dark mode.
 
 In both of the images above, you see three panels. The middle is the text you are writing. The right is the preview of what it might look like on a website or a book (subject to formatting, which I will cover in a later chapter). The left is a navigation panel that allows you to jump to the specific heading you want. If you are writing a long book, you might want to jump to chapter 9, for example, where you were writing last time, for example.
 
-ghostwriter is pretty good. It is not the only program of its type, but it certainly has gotten the job done for several of the books that I have published and republished.
+Ghostwriter is pretty good. It is not the only program of its type, but it certainly has gotten the job done for several of the books that I have published and republished.
 
-If you only use Windows and don't care about Open Source, you might also like [Markdown Monster](https://markdownmonster.west-wind.com/), which is very similar to ghostwriter.
+If you only use Windows and don't care about Open Source, you might also like [Markdown Monster](https://markdownmonster.west-wind.com/), which is very similar to Ghostwriter.
 
 ## Joplin
 
-The next tool that I recommend is Joplin. If you look at the screenshot below, you will see that it is similar to ghostwriter. However, Joplin's file system is separate from the rest of your PC. This system allows you to organize your notes into folders called "notebooks". They can also be searched to find what you are looking for.
+The next tool that I recommend is Joplin. If you look at the screenshot below, you will see that it is similar to Ghostwriter. However, Joplin's file system is separate from the rest of your PC. This system allows you to organize your notes into folders called "notebooks". They can also be searched to find what you are looking for.
 
-![Screenshot-Joplin-PC.png](./images/Screenshot-Joplin-PC.png)
+![Screenshot-Joplin-PC.png](https://chastitywhiterose.com/wp-content/uploads/2025/06/screenshot-joplin-pc.png)
 
-From the perspective of PC, Joplin is about the same in terms of quality as ghostwriter or Markdown Monster. However, the main reason I recommend it is because it also functions as a mobile app.
+From the perspective of PC, Joplin is about the same in terms of quality as Ghostwriter or Markdown Monster. However, the main reason I recommend it is because it also functions as a mobile app.
 
-![Screenshot-Joplin-PC.png](./images/Screenshot-Joplin-iPhone.png)
+![Screenshot-Joplin-iPhone.png](https://chastitywhiterose.com/wp-content/uploads/2025/06/screenshot-joplin-iphone.png)
 
 It is even possible to set up a system for automatically syncing between your PC and phone by using an online server. I actually use a private Nextcloud server to sync my PC, iPhone, and Android phone so that no matter what device I use to take notes on, it will show up on the other devices. However, this ability to customize is more advanced, and you will want to read the Joplin documentation, which is included in the app and on the official Joplin website.
 
-Another feature that is unique among Markdown editors is that it has the option to attach images from either the PC or Mobile app and then have them displayed in Joplin. When you do this, then that file becomes part of the data that Joplin stores. This could be especially useful if someone was taking a lot of pictures with their iPhone camera and wanted to write about each of them and make a small book of a portfolio or photo album.
+Another feature that is unique among Markdown editors is that it has the option to attach images from either the PC or Mobile app and then have them displayed in Joplin. When you do this, then that file becomes part of the data that Joplin stores. The attachment feature of Joplin could be especially useful if someone was taking a lot of pictures with their iPhone camera and wanted to write about each of them and make a small book of a portfolio or photo album.
 
 If you are always on the go, Joplin might be for you. Also, it does not require creating an account unless you need syncing capability. Therefore, if you want a way to organize your notes into folders and don't have a reliable internet connection on your phone, then Joplin is pretty good as far as mobile apps go.
 
-If you use a PC and don't use your phone as a writing tool, you can probably just stick with ghostwriter as mentioned in the previous section.
+If you use a PC and don't use your phone as a writing tool, you can probably just stick with Ghostwriter, as mentioned in the previous section.
 
 ## Simplenote
 
@@ -172,7 +171,7 @@ Simplenote is another Markdown editor that has desktop and mobile apps. However,
 
 If syncing between devices is a primary concern for you, I have to recommend Simplenote because accessing your data on any device where you are signed in is trivial. Simplenote really is **simple**. It does not have all the fancy features of the other two programs I have recommended above, but because it doesn't contain much, it is also easy to use without getting lost in the interface.
 
-Of course, the primary purpose of Simplenote is to write down your notes quickly on the go. Later, when you want to collect them into a book, you will still want to copy and paste the text into ghostwriter or Joplin on a PC, so you can make use of the exporting features of these to archive and send them to publishers or your friends.
+Of course, the primary purpose of Simplenote is to write down your notes quickly on the go. Later, when you want to collect them into a book, you will still want to copy and paste the text into Ghostwriter or Joplin on a PC, so you can make use of the exporting features of these to archive and send them to publishers or your friends.
 
 I use Simplenote all the time whenever I have an idea that I need to write down on my phone and then later finish it on my PC before I post it to my blog or email it to someone. The most recent notes you have written are always at the top, so you can go through them and then do what you need to before deleting them after you no longer need those notes.
 
@@ -188,7 +187,7 @@ You can also use an online Markdown editor.
 - [Dillinger](https://dillinger.io/)
 - [WordPress](https://wordpress.com/)
 
-The reason I mention Wordpress as an online Markdown editor (even though it does a whole lot more) is because it has full support for Markdown via its Markdown block type which allows you to past your text into it and preview the result even before you post. In fact, all of my blog posts have been written in Markdown since the beginning of 2025. When making a new post, you can type / and then select the Markdown block from the dropdown menu.
+The reason I mention WordPress as an online Markdown editor (even though it does a whole lot more) is because it has full support for Markdown via its Markdown block type, which allows you to paste your text into it and preview the result even before you post. In fact, all of my blog posts have been written in Markdown since the beginning of 2025. When making a new post, you can type / and then select the Markdown block from the dropdown menu.
 
 # Chapter 2: Conversion Tools
 
@@ -222,7 +221,7 @@ I am aware that not all people who read this book have used a program from the c
 
 In this picture, I right clicked while in the folder containing my example text.
 
-![](./images/Window-11-Open-Terminal.png)
+![window-11-open-terminal.png](https://chastitywhiterose.com/wp-content/uploads/2025/06/window-11-open-terminal.png)
 
 By selecting the "Open in Terminal" option, I am given a Windows command prompt which looks and operates much like MS-DOS used to. This terminal Window allows you to enter the name of any program which is in the path on your operating system. If you used the Windows installer then your path will automatically be updated so you can use it from any folder. The following sections describe conversion to HTML, epub, and PDF.
 
@@ -232,13 +231,13 @@ Because Pandoc is installed, I can simply type the following command and have th
 
 `pandoc example-1.md -o example-1.html`
 
-![](./images/pandoc-convert-to-html.png)
+![pandoc-convert-to-html.png](https://chastitywhiterose.com/wp-content/uploads/2025/06/pandoc-convert-to-html.png)
 
 Afterwards, I can view the two files right inside the terminal with the "type" command.
 
-![](./images/type-example-1-md.png)
+![type-example-1-md.png](https://chastitywhiterose.com/wp-content/uploads/2025/06/type-example-1-md.png)
 
-![](./images/type-example-1-html.png)
+![type-example-1-html.png](https://chastitywhiterose.com/wp-content/uploads/2025/06/type-example-1-html.png)
 
 It is pretty easy to see the conversion between the Markdown and the HTML.
 
@@ -532,30 +531,36 @@ This command converts the file into the "odt" (Open Document Text) format. This 
 
 Once the odt file is created, it can be opened with LibreOffice. However, at first the book may look strange, like this:
 
-![LibreOffice-book-preview.png](./images/LibreOffice-book-preview.png)
+![LibreOffice-book-preview.png](https://chastitywhiterose.com/wp-content/uploads/2025/06/libreoffice-book-preview.png)
 
-The problem is that the title page, preface, introduction, and so on are not starting on their own pages. However, they is an easy fix for this!
+The problem is that the title page, preface, introduction, and so on are not starting on their own pages. However, there is an easy fix for this!
 
 Go to the Styles menu at the top of the program and select "Manage Styles".
 
-![LibreOffice-Styles-Menu.png](./images/LibreOffice-Styles-Menu.png)
+![LibreOffice-Styles-Menu.png](https://chastitywhiterose.com/wp-content/uploads/2025/06/libreoffice-styles-menu.png)
 
 Then right click on the "Heading 1" and select "Edit Style"
 
-![LibreOffice-Edit-Style.png.png](./images/LibreOffice-Edit-Style.png)
+![LibreOffice-Edit-Style.png.png](https://chastitywhiterose.com/wp-content/uploads/2025/06/libreoffice-edit-style.png)
 
 Now you need to go into the "Text Flow" section of the style settings and select to have a break inserted before each Heading 1.
 
-![LibreOffice-Text-Flow-Settings.png](./images/LibreOffice-Text-Flow-Settings.png)
+![LibreOffice-Text-Flow-Settings.png](https://chastitywhiterose.com/wp-content/uploads/2025/06/libreoffice-text-flow-settings.png)
 
 Apply those changes and you will already see that new chapters and sections start on their own separate page because they are written in the original Markdown as heading level 1 with only one # at the start of the line.
 
 There is only one more setting that must be changed in LibreOffice. You need to set the size of the pages and the margins depending on which size book you are making. I usually stick with the 8.5 inch by 11 inch size for my books that I publish. The image below is what my settings look like!
 
-![LibreOffice-Page-Style.png](./images/LibreOffice-Page-Style.png)
+![LibreOffice-Page-Style.png](https://chastitywhiterose.com/wp-content/uploads/2025/06/libreoffice-page-style.png)
 
-You may be wondering: "Do I have to go through these menus and settings every time I update my book?". No you don't! You can save these settings to a file and then use it as a reference! Just save a copy of the file named style.odt and then whenever you need to generate the book from the Markdown file, the following command can reuse the settings to change previously!
+You may be wondering: "Do I have to go through these menus and settings every time I update my book?". No you don't! You can save these settings to a file and then use it as a reference! Just save a copy of the file named style.odt (or whatever name you choose) and then whenever you need to generate the book from the Markdown file, the following command can reuse the settings to change previously!
 
 `pandoc Minimal_Markdown_Book.md -o book.odt --reference-doc style.odt`
 
-This means that you only need to go through the menus and change these settings once as I described. If you pick a consistent size for all your books then you won't even need to go and change the page size again. However, when including pictures in books, the images must be resized using other software to make sure they still fit in your books if you use a smaller size book. There are many tools for rescaling images. I used [GIMP](https://www.gimp.org/) when making this book. Most of the pictures used were screenshots that needed to be cropped or scaled down to fit on a page!
+The command above simply copies the styles like page size, fonts, etc. from the style.odt while it is converting the Markdown file into the book.odt output.
+
+Because styles can be reused from other documents, you only need to go through the menus and change these settings once as I described. If you pick a consistent size for all your books then you won't even need to go and change the page size again. However, when including pictures in books, the images must be resized using other software to make sure they still fit in your books if you use a smaller size book. There are many tools for rescaling images. I used [GIMP](https://www.gimp.org/) when making this book. Most of the pictures used were screenshots that needed to be cropped or scaled down to fit on a page!
+
+# Chapter 3: Publishing the Book
+
+To be continued...
