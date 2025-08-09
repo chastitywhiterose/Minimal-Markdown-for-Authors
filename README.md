@@ -59,7 +59,7 @@ All you had to do was insert a few # signs at the beginning of a line followed b
 
 But Markdown is not limited to defining your chapter headings. It can do a lot more!
 
-For example, images can be displayed. For example, the following line links to an image of a horse on my blog.
+Images can be displayed. For example, the following line links to an image of a horse on my blog.
 
 `![square-horse.png](https://chastitywhiterose.com/wp-content/uploads/2020/11/square-horse.png)`
 
@@ -132,11 +132,11 @@ I started using Ghostwriter because it works on Linux. However, it works the sam
 
 Dark Mode
 
-![Screenshot-ghostwriter-dark.png](https://chastitywhiterose.com/wp-content/uploads/2025/06/screenshot-ghostwriter-dark.png&w=540)
+![Screenshot-ghostwriter-dark.png](https://chastitywhiterose.com/wp-content/uploads/2025/08/screenshot-ghostwriter-dark.png)
 
 Light Mode
 
-![Screenshot-ghostwriter-light.png](https://chastitywhiterose.com/wp-content/uploads/2025/06/screenshot-ghostwriter-light.png&w=540)
+![Screenshot-ghostwriter-light.png](https://chastitywhiterose.com/wp-content/uploads/2025/08/screenshot-ghostwriter-light.png)
 
 Besides the dark and light modes, the program does allow you to define customized themes. I have not personally explored this option because I am quite satisfied with the default dark mode.
 
@@ -150,11 +150,11 @@ If you only use Windows and don't care about Open Source, you might also like [M
 
 The next tool that I recommend is Joplin. If you look at the screenshot below, you will see that it is similar to Ghostwriter. However, Joplin's file system is separate from the rest of your PC. This system allows you to organize your notes into folders called "notebooks". They can also be searched to find what you are looking for.
 
-![Screenshot-Joplin-PC.png](https://chastitywhiterose.com/wp-content/uploads/2025/06/screenshot-joplin-pc.png&w=540)
+![Screenshot-Joplin-PC.png](https://chastitywhiterose.com/wp-content/uploads/2025/08/screenshot-joplin-pc.png)
 
 From the perspective of PC, Joplin is about the same in terms of quality as Ghostwriter or Markdown Monster. However, the main reason I recommend it is that it also functions as a mobile app.
 
-![Screenshot-Joplin-iPhone.png](https://chastitywhiterose.com/wp-content/uploads/2025/06/screenshot-joplin-iphone.png&w=360)
+![Screenshot-Joplin-iPhone.png](https://chastitywhiterose.com/wp-content/uploads/2025/08/screenshot-joplin-iphone.png)
 
 It is even possible to set up a system for automatically syncing between your PC and phone by using an online server. I actually use a private Nextcloud server to sync my PC, iPhone, and Android phone so that no matter what device I use to take notes on, it will show up on the other devices. However, this ability to customize is more advanced, and you will want to read the Joplin documentation, which is included in the app and on the official Joplin website.
 
@@ -632,7 +632,7 @@ I click the "ADD NEW BOOK" button and am presented with 3 options.
 
 ![screenshot-d2d-start-ebook.png](https://chastitywhiterose.com/wp-content/uploads/2025/07/screenshot-d2d-start-ebook.png)
 
-At the time of this writing, Draft2Digital does support publishing paperbacks in grayscale but not full color. I am starting an e-book, I select the leftmost button.
+At the time of this writing, Draft2Digital does support publishing paperbacks in grayscale but not full color. When I am starting an e-book, I select the leftmost button.
 
 The next screen is where you must type in your metadata. This data includes the title of the book, name of the authors, tags, and other things like categories or defining a series.
 
@@ -648,7 +648,7 @@ This logo along with the text and lines linking the words were all arranged usin
 
 <https://inkscape.org/>
 
-If you are designing your cover, I can tell you that I was able to figure out how to use Inkscape just by experimentation. I have not read the documentation on it but it is very easy to use and draw shapes and text to places.
+If you are designing your cover, I can tell you that I was able to figure out how to use Inkscape just by experimentation. I have not read the documentation on it but it is very easy to use for drawing shapes and text to the places I want when making a book cover.
 
 Alternatively, you can of course pay someone else to design your cover, but as you see in the example of this book, you can go with something basic for the purpose of publishing it now, and then you can update the cover if you do have a better cover later on.
 
@@ -668,7 +668,7 @@ If everything looks fine, just finish the process on the site to publish your e-
 
 You also have the option to make books available for free and not sell them. This can lead to more people reading them because when something is free, people tend to grab it instantly. Some of my free books have been downloaded many times so I know what I am talking about.
 
-After your pricing is set, go ahead and publish. You will have to wait some time before the book shows up on other platforms but within a few days it will become available on Smashwords. Generally you want to find it on there and send the link to your friends so they can buy and read it.
+After your pricing is set, go ahead and publish. You will have to wait some time before the book shows up on other platforms but within a few days it will become available on Smashwords. Generally, you want to find it on there and send the link to your friends so they can buy and read it.
 
 Of course, if your friends don't accept the gospel of your newly published book or they don't have any money, just email the epub file to them directly and tell them to load it up in their favorite e-book reading app.
 
